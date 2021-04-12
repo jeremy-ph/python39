@@ -1,4 +1,4 @@
-# format 함수를 사용한 모매팅
+# format 함수를 사용한 포매팅 
 # 숫자
 "I eat {0} apples".format(3)
 # 문자

@@ -1,4 +1,4 @@
-# count
+# count 
 a = "hobby"
 a.count('b') # => 2
 
